@@ -2,4 +2,5 @@ program output
 implicit none
 read(*,*)asd
 write(*,*)asd
+write(*,*)"asd"
 end
